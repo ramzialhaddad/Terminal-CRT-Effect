@@ -22,5 +22,6 @@ To this
 
 ![Are you doing this on purpose? An image is supposed to be here, reload the page!! >:(](/readmeimagesandstuffswhyareyoureadingthis/toThis.png)
 
+You can also change the value of the ```hertz``` variable to speed up or slowdown the CRT
 
  For best results make your font size in Terminal or Console to the minimum. I also prefer to make the window 80 x 25 on CMD, you do not have to do this.
