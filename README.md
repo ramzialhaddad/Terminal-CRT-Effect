@@ -14,4 +14,10 @@ So it loops through the 2d array given and draws each "pixel" one by one, simula
 
  To execute use ```py main.py``` works in Windows without changes but if on linux change ```system('cls')``` on line 61 to ```system("clear")``` (Will Soon™ make it that it automatically detects and does it automagically)
 
+ From this 
+![Hm so you were supposed to see a picture, if you really don't want to then DO NOT reload the page](/read me images and stuffs why are you reading this/this thing.png)
+
+![Are you doing this on purpose? An image is supposed to be here, reload the page!! >:(](/read me images and stuffs why are you reading this/to this.png)
+
+
  For best results make your font size in Terminal or Console to the minimum. I also prefer to make the window 80 x 25 on CMD, you do not have to do this.
