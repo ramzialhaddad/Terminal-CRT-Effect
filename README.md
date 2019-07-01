@@ -6,7 +6,7 @@ This was basically made to demonstrate how CRTs work, for an upcoming video.
 
 # How it works
 
-It is super simple all you need is a 2 Dimensional Array with values of 0 or 1 inside them and call the function with the array passed inside it. I've made example messages and even a simple shape.
+It is super simple all you need is a 2 Dimensional Array with values of 0 or 1 inside them and call the function with the array passed inside it. I've made some examples in the code and even a simple shape along side a blank 10x10 "pixel" 2d array which you can make your own stuff from.
 
 So it loops through the 2d array given and draws each "pixel" one by one, simulating a real CRT with an electron beam
 
