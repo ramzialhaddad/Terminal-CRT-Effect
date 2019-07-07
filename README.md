@@ -12,16 +12,14 @@ So it loops through the 2d array given and draws each "pixel" one by one, simula
 
 # How to run
 
- To execute use ```py main.py``` works in Windows without changes but if on linux change ```system('cls')``` on line 61 to ```system("clear")``` (Will Soon™ make it that it automatically detects and does it automagically)
+ To execute run ```py main.py```
 
- From this
-
-![Hm so you were supposed to see a picture, if you really don't want to then DO NOT reload the page](/readmeimagesandstuffswhyareyoureadingthis/thisThing.png)
-
-To this
-
-![Are you doing this on purpose? An image is supposed to be here, reload the page!! >:(](/readmeimagesandstuffswhyareyoureadingthis/toThis.png)
-
-You can also change the value of the ```hertz``` variable to speed up or slowdown the CRT
+You can also change the value of the ```hertz``` variable to speed up or slowdown the "CRT"
 
  For best results make your font size in Terminal or Console to the minimum. I also prefer to make the window 80 x 25 on CMD, you do not have to do this.
+
+# The TODO list
+
+All the stuff to make this better as a demonstration are on the issues tab of this repository, if you have an idea on how to make this better open up an issue!
+
+https://github.com/ramzialhaddadtm/Terminal-CRT-Effect/issues
