@@ -1,8 +1,14 @@
 from time import sleep
 from os import system
+import platform
 import sys
 
 hertz = 60
+
+if platform.system() == "Windows":
+    clear_word = "cls"
+else:
+    clear_word = "clear"
 
 blank = [
 		[0,0,0,0,0,0,0,0,0,0],
@@ -58,7 +64,7 @@ message =	[
 
 
 def refreshScreen(display):
-	system("cls")
+	system(clear_wordr)
 	for line in display:
 		for pixel in line:
 			sleep(1/hertz)
