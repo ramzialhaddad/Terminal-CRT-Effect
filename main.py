@@ -64,7 +64,7 @@ message =	[
 
 
 def refreshScreen(display):
-	system(clear_wordr)
+	system(clear_word)
 	for line in display:
 		for pixel in line:
 			sleep(1/hertz)
